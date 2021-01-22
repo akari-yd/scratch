@@ -1,5 +1,5 @@
-douban_book用于爬取豆瓣书籍内容
-douban_movie用于爬取豆瓣电影
+douban_book用于爬取豆瓣书籍内容，基于selenium模拟浏览器爬取
+douban_movie用于爬取豆瓣电影，通过解析web请求爬取
 main为启动程序，程序执行后结果存在xlsx文件中
 没有交互式界面，可在程序中修改参数以实现修改
 xlsx文件为输出文件样例
